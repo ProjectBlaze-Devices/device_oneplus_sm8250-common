@@ -10,5 +10,9 @@
   {
     "repository"  : "packages_apps_OPlusExtras",
     "target_path" : "packages/apps/OPlusExtras"
+  },
+  {
+    "repository"  : "hardware_dolby",
+    "target_path" : "hardware/dolby"
   }
 ]
