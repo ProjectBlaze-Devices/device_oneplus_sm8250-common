@@ -1,18 +1,34 @@
 [
   {
-    "repository": "android_hardware_oplus",
-    "target_path": "hardware/oplus"
+    "repository"  : "vendor_oneplus_sm8250-common",
+    "target_path" : "vendor/oneplus/sm8250-common"
   },
   {
-    "repository": "android_kernel_oneplus_sm8250",
-    "target_path": "kernel/oneplus/sm8250"
+    "repository"  : "kernel_oneplus_sm8250",
+    "target_path" : "kernel/oneplus/sm8250"
+  },
+  {
+    "repository"  : "vendor_oneplus_camera",
+    "target_path" : "vendor/oneplus/camera"
+  },
+  {
+    "repository"  : "hardware_oplus",
+    "target_path" : "hardware/oplus"
+  },
+  {
+    "repository"  : "hardware_dolby",
+    "target_path" : "hardware/dolby"
   },
   {
     "repository"  : "packages_apps_OPlusExtras",
     "target_path" : "packages/apps/OPlusExtras"
   },
   {
-    "repository"  : "hardware_dolby",
-    "target_path" : "hardware/dolby"
+    "repository"  : "device_qcom_common",
+    "target_path" : "device/qcom/common"
+  },
+  {
+    "repository"  : "vendor_qcom_common",
+    "target_path" : "vendor/qcom/common"
   }
 ]
